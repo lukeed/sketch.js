@@ -1,4 +1,5 @@
 ## sketch.js
+> ES6 rewrite
 
 A tiny (~2kb gzipped) platform for JavaScript creative coding.
 
